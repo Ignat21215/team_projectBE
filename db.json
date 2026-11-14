@@ -42,11 +42,11 @@
 				"Багато кемпів і шкіл на будь-який бюджет",
 				"Близько до Лісабона"
 			],
-			"image": "/images/destinations/peniche.png",
+			"image": "https://images.unsplash.com/photo-1701986789761-98b219062a6b?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
 			"gallery": [
-				"/images/destinations/peniche-two.png",
-				"/images/destinations/peniche-three.png",
-				"/images/destinations/peniche-four.png"
+				"https://images.unsplash.com/photo-1615824984248-a09aa62fb040?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+				"https://images.unsplash.com/photo-1531137338014-9cc6350cabf4?q=80&w=1143&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+				"https://images.unsplash.com/photo-1728327510746-ca4b2e932a65?q=80&w=1025&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
 			],
 			"featured": true
 		},
@@ -72,11 +72,11 @@
 				"Оглядовий майданчик біля маяка",
 				"У воді лише для професіоналів"
 			],
-			"image": "/images/destinations/nazare.png",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQCFa6_uhQun1f6XxmerrjyYCC-Mn0RkOsO2GTlyHq9ijw1202HISHSJk&s=10",
 			"gallery": [
-				"/images/destinations/nazare-two.png",
-				"/images/destinations/nazare-three.png",
-				"/images/destinations/nazare-four.png"
+				"https://images.unsplash.com/photo-1677618031630-768ddc4f4fad?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnQxIaOJzgxi_NkUDcTEKZSR62FT_Ecr5amIZU67OSZgX2xMoKCmtdD_8T&s=10",
+				"https://images.squarespace-cdn.com/content/v1/53586ae3e4b0c3b862d91325/d8242a5a-17d2-4d86-aeb1-465c0f9ff8e9/nazare-big-waves-scaled.jpg"
 			],
 			"featured": false
 		},
@@ -102,11 +102,11 @@
 				"Затишне містечко з ресторанами морепродуктів",
 				"Лісабон за 50 хвилин"
 			],
-			"image": "/images/destinations/ericeira.png",
+			"image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/6d/c8/6e/caption.jpg?w=500&h=400&s=1",
 			"gallery": [
-				"/images/destinations/ericeira-two.png",
-				"/images/destinations/ericeira-three.png",
-				"/images/destinations/ericeira-four.png"
+				"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/34/75/b8/54/caption.jpg?w=500&h=400&s=1",
+				"https://bucketlistportugal.com/wp-content/uploads/2024/07/Miradouro-Sala-das-Visitas-Ericeira.jpg",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWnFVazEeliM0nt7tU08UCiobjRDsMR8UcfKYo0Ne_l__wUwBgdd783eg&s=10"
 			],
 			"featured": false
 		},
@@ -132,11 +132,11 @@
 				"Бюджетні кемпи з йогою",
 				"Прямі рейси до Агадіра з Європи"
 			],
-			"image": "/images/destinations/taghazout.png",
+			"image": "https://www.waverick.com/wp-content/uploads/2025/02/1739127776545x386814135319783360-feature-1600x1600.webp",
 			"gallery": [
-				"/images/destinations/taghazout-two.png",
-				"/images/destinations/taghazout-three.png",
-				"/images/destinations/taghazout-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJDbwxeBh53GW0utExXlxEfBrkDqgq_K1UxT-ibGWxX9X4WTkE-dZUrY&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1-nHqgGKm24DcRyOyJOSIJdv8v05U_LzuEhu9cWN5tw&s=10",
+				"https://static.wixstatic.com/media/8e8243_7ea4dbf14bbf4e2e92f854d63f9ce490~mv2.jpg/v1/fill/w_568,h_710,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/8e8243_7ea4dbf14bbf4e2e92f854d63f9ce490~mv2.jpg"
 			],
 			"featured": false
 		},
@@ -162,11 +162,11 @@
 				"Хороше місце для прогресу після перших уроків",
 				"Берберська кухня й тажини"
 			],
-			"image": "/images/destinations/imsouane.png",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf2dApWHArNgxpKeY4e2qfi63qKavRF5zWmsIZkwbixLVj8HC0ALDTbhs&s=10",
 			"gallery": [
-				"/images/destinations/imsouane-two.png",
-				"/images/destinations/imsouane-three.png",
-				"/images/destinations/imsouane-four.png"
+				"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/fd/86/99/tidehunter-surf-house.jpg?w=1400&h=-1&s=1",
+				"https://pub-1a69b75c711448af8bbb9da3717b28e3.r2.dev/galerie/imsouane-surf-gallery-64.webp",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbMMCAzvJjxw46WyPSyD1k6MDLJQ-giJgwckk779-cywAoo_n6qTYZB56T&s=10"
 			],
 			"featured": false
 		},
@@ -192,11 +192,11 @@
 				"Серф-бренди та магазини",
 				"Велодоріжки соснового лісу"
 			],
-			"image": "/images/destinations/hossegor.png",
+			"image": "https://cdn.hometogo.net/assets/media/original/20251001/68dd0a2abca49.jpg",
 			"gallery": [
-				"/images/destinations/hossegor-two.png",
-				"/images/destinations/hossegor-three.png",
-				"/images/destinations/hossegor-four.png"
+				"https://www.petitfute.com/medias/mag/37412/originale/AdobeStock_30773538-1024x683.jpeg",
+				"https://upload.wikimedia.org/wikipedia/commons/a/ab/PlageHossegore.jpg?utm_source=uk.wikipedia.org&utm_campaign=index&utm_content=original",
+				"https://www.leshortensiasdulac.fontenille-collection.com/wp-content/uploads/2025/09/Bayonne-que-faire-aux-alentours-hossegor-768x768.jpg"
 			],
 			"featured": true
 		},
@@ -222,11 +222,11 @@
 				"Баскська кухня й піншоси",
 				"Сан-Себастьян поруч"
 			],
-			"image": "/images/destinations/biarritz.png",
+			"image": "https://cdn.audleytravel.com/5595/3996/79/15998286-sunset-view-of-the-marina-in-biarritz.jpg",
 			"gallery": [
-				"/images/destinations/biarritz-two.png",
-				"/images/destinations/biarritz-three.png",
-				"/images/destinations/biarritz-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvGoX9wDOgX1BgI3GBaq3bMxmDM2K15jYEpV3_v0n3pftCALKN_HIUA7Lh&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Fepuo7V1U6u1qzerjOPH_GGGmxxfYn9ZTraA50POzg&s=10",
+				"https://asset-prod.france.fr/BIARRITZ_VILLA_BELZA_PRINTEMPS_SHUTTERSTOCK_JEAN_LUCLCHARD_a2d8f41e31.jpg"
 			],
 			"featured": false
 		},
@@ -252,11 +252,11 @@
 				"Захід сонця в барі Single Fin",
 				"Лише для досвідчених у воді"
 			],
-			"image": "/images/destinations/uluwatu.png",
+			"image": "https://ayo-jalan-jalan.fr/wp-content/uploads/2024/11/avis-uluwatu-bali-1.webp",
 			"gallery": [
-				"/images/destinations/uluwatu-two.png",
-				"/images/destinations/uluwatu-three.png",
-				"/images/destinations/uluwatu-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCjd3JEWCLhxgwNfjyQp--bP9YwQlS1JxwNtmpRA6a-NT72OrSXcLabC8&s=10",
+				"https://media.istockphoto.com/id/1160963695/photo/bali-indonesia-aerial-view-of-uluwatu-temple-at-sunrise.jpg?s=612x612&w=0&k=20&c=JsFROpanGV1rryKeYJ1TN5ZWZ__JEHJe8hSU8OPwpVQ=",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7GUARdAaLtEebocB2gRpRMba_92bZ6jSalEDJUCbQH7qvzsoNY3rV0zQ&s=10"
 			],
 			"featured": true
 		},
@@ -282,11 +282,11 @@
 				"Коворкінги й кав’ярні",
 				"Багато варіантів житла"
 			],
-			"image": "/images/destinations/canggu.png",
+			"image": "https://cdn.getyourguide.com/image/format=auto%2Cfit=crop%2Cgravity=auto%2Cquality=60%2Cwidth=400%2Cheight=265%2Cdpr=2/tour_img/9db8b7282facc54b63a852eab3e7836c089c47dbb6c36beb02c9e013b0e489f4.jpg",
 			"gallery": [
-				"/images/destinations/canggu-two.png",
-				"/images/destinations/canggu-three.png",
-				"/images/destinations/canggu-four.png"
+				"https://www.yogawinetravel.com/wp-content/uploads/2022/10/Drone-photo-of-Pererenan-beach-in-Canggu-Bali-2.jpg",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6PZd3NvHQaIK4IMCzyRG5kveFy11oAFPOuqgBpTENu_FYg-VwHVpbPX-&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp1gPbZ4eQos5gW7uZrXb-tGy3Vt1yq8-6e-qlw8AVMbYhCZXZsjw7jaNL&s=10"
 			],
 			"featured": true
 		},
@@ -312,11 +312,11 @@
 				"Десятки шкіл і прокатів",
 				"Старе місто Галле поруч"
 			],
-			"image": "/images/destinations/weligama.png",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU6pUJgaSMg2qTgwZPJY8idhCZ7XxpjfU5pzaBafO-SLYzan4lt_bnVaBN&s=10",
 			"gallery": [
-				"/images/destinations/weligama-two.png",
-				"/images/destinations/weligama-three.png",
-				"/images/destinations/weligama-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQboh0YBUxgw4spNvk_e0xR464N5mXYSqXG30s5rkeP5_hw5nh8Iaf52bI&s=10",
+				"https://www.civitatis.com/f/sri-lanka/weligama/weligama-m.jpg",
+				"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/ca/d5/98/view-from-main-building.jpg?w=900&h=500&s=1"
 			],
 			"featured": true
 		},
@@ -342,11 +342,11 @@
 				"Сафарі й птахи в національному парку Кумана",
 				"Невимушена атмосфера"
 			],
-			"image": "/images/destinations/arugam-bay.png",
+			"image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/116090389.jpg?k=36d62f089b1698f8e822e5b2c2d36b2ef81983cf1c1bd4f81a125deff8aecd60&o=",
 			"gallery": [
-				"/images/destinations/arugam-bay-two.png",
-				"/images/destinations/arugam-bay-three.png",
-				"/images/destinations/arugam-bay-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_87sw4FbqCAqku62FpbnRTX4Nbwdypq5MDc6cFr3DoOQxvkdaKnbk7M0&s=10",
+				"https://tuktukrental.com/wp-content/uploads/2025/03/ARUGAM-BAY-1-1-1024x576.jpg.webp",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz8y-dfnc7YFg1NksjoJn0n4k_TM_BzxkvpNTDT0uPQU7LaihdZcaLHzI&s=10"
 			],
 			"featured": false
 		},
@@ -372,11 +372,11 @@
 				"Джунглі просто біля пляжу",
 				"Заходи сонця над Тихим океаном"
 			],
-			"image": "/images/destinations/santa-teresa.png",
+			"image": "https://imgcap.capturetheatlas.com/wp-content/uploads/2024/02/Kayak-bioluminiscente-una-de-las-actividades-mas-populares-en-Santa-Teresa.jpg",
 			"gallery": [
-				"/images/destinations/santa-teresa-two.png",
-				"/images/destinations/santa-teresa-three.png",
-				"/images/destinations/santa-teresa-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yuyIUlRkwH5DHrIECchW1bMRELS59GAcGcGPHJbNEx7D6dqdVXIGL3A&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xHuqQMX-_AXT5uaK4L5raVmjyRYV-diC9WzobMfC_ye651IRIUBmh0gX&s=10",
+				"https://deih43ym53wif.cloudfront.net/costa-rica-playa-santa-teresa-sunset-shutterstock_344653562.jpg_923f24d3d4.jpg"
 			],
 			"featured": true
 		},
@@ -402,11 +402,11 @@
 				"Зручно добиратися з Ліберії",
 				"Жваве нічне життя"
 			],
-			"image": "/images/destinations/tamarindo.png",
+			"image": "https://res.cloudinary.com/vacationscostarica-com/image/upload/f_auto/q_auto/v1743457516/tamarindo_beach_aerial_view_costa_rica_f7d26d7356?_a=BBGAABZE0",
 			"gallery": [
-				"/images/destinations/tamarindo-two.png",
-				"/images/destinations/tamarindo-three.png",
-				"/images/destinations/tamarindo-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2YYoO1QKfHsIQrDDh2OncUzUmBKCa5JyKtxZORKHyw&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZRwaxGWtCLREjizZyaSaEfM8H8WlD8-VSRdqbE4XHJS72aNn9y2mMLDkk&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu9EjjcgvGIf4rziK67dO-yOgP0UXd0mY5jL7ptJhfPs1vC3wTYQThOZY&s=10"
 			],
 			"featured": false
 		},
@@ -432,11 +432,11 @@
 				"Оренда дощок на пляжі",
 				"Місто Гонолулу поруч"
 			],
-			"image": "/images/destinations/waikiki.png",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB3vcZXN3_U7Z62KBqR-36gqJsFPr6UzzyxHeqh4LCgUxbgRGeUMdR03T_&s=10",
 			"gallery": [
-				"/images/destinations/waikiki-two.png",
-				"/images/destinations/waikiki-three.png",
-				"/images/destinations/waikiki-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThd5JcSX0UtULMenG4tsKz_3NvEIR9K7hyhEJb1tfNdYWxy8lkKoF1bsI&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_nSQmWEMb1iGeDazG4bHQJAxCL14ZLganAqiFm3K_RobeRi9UtOD2B0s&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxSZijX_AjJbcXvxGjpRFGnjqlqz5OmPbqCzLYxo88bLBNRmTJAiOcFDm8&s=10"
 			],
 			"featured": false
 		},
@@ -462,11 +462,11 @@
 				"Небезпечний мілкий риф",
 				"Щорічне змагання Pipe Masters"
 			],
-			"image": "/images/destinations/pipeline.png",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_JirCle130YBpvU_6B_433LIGtPcf9nm7C2777naUkZyT8HdsY9Itk_I&s=10",
 			"gallery": [
-				"/images/destinations/pipeline-two.png",
-				"/images/destinations/pipeline-three.png",
-				"/images/destinations/pipeline-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf_StaPFj4GNxA2w0Jv5c94cgo19MR0dDWZFfhcqH1L7C-dDsKxatwNmvt&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpJZSu-fJh98i_KpCDyGptDjXFR-u7Skal5yRjF9Wy82tpBb2MiTN2wLY&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6efmsU_V3cCozsjx81MOVEiNRG3AZFzwObYCTlmMw1zoMipi-bHs7aU34&s=10"
 			],
 			"featured": true
 		},
@@ -492,11 +492,11 @@
 				"Лише для професіоналів",
 				"Сан-Франциско неподалік"
 			],
-			"image": "/images/destinations/mavericks.png",
+			"image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/6c/59/62/20160415-083623-richtone.jpg?w=1200&h=-1&s=1",
 			"gallery": [
-				"/images/destinations/mavericks-two.png",
-				"/images/destinations/mavericks-three.png",
-				"/images/destinations/mavericks-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh94Bq1uFl5TFDzBVyZpsLxHnkJziMtKsXuD3xQ3DogT_gwEgUlMqUzkVh&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmozfQQiD5oJKfEjORcY2gV2oqDbpvIvHgMeDq8OLPD8OKiM88ctpBd4&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_BSr9tsOM6mzVfVhwXQDa0zsknBQICDB2jS_H0P4bQYE0ltMja7BWfBU&s=10"
 			],
 			"featured": false
 		},
@@ -522,11 +522,11 @@
 				"Високий рівень місцевих серферів",
 				"Розвинена туристична інфраструктура"
 			],
-			"image": "/images/destinations/gold-coast.png",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6nPSa1NfvG1eESsJeV0RBOqSoH-UJbNamgZtJeY2TXQ&s",
 			"gallery": [
-				"/images/destinations/gold-coast-two.png",
-				"/images/destinations/gold-coast-three.png",
-				"/images/destinations/gold-coast-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFZ3y_b6zHKdhOPg_YBqFbqfpQtW7Tr7aMfue9YWrk7HkQDWVsj7bloz8&s=10",
+				"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/8e/ba/49/photo1jpg.jpg?w=1400&h=-1&s=1",
+				"https://cdn.getyourguide.com/image/format=avif%2Cfit=cover%2Cgravity=auto%2Cquality=60/dam/josh-withers-WjN74Hfm6ow-unsplash-MOBILE-HEADER.jpg"
 			],
 			"featured": false
 		},
@@ -552,11 +552,11 @@
 				"Ринки й екологічна кухня",
 				"Часті зустрічі з дельфінами"
 			],
-			"image": "/images/destinations/byron-bay.png",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUM2pCvDnLOQqYUlyyg9BWfPGaoO4VBpKSiGUMuwhJ56FnvX_0JdKe9II&s=10",
 			"gallery": [
-				"/images/destinations/byron-bay-two.png",
-				"/images/destinations/byron-bay-three.png",
-				"/images/destinations/byron-bay-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj528n3ucL77aX32txVXadESMv8TtorCMEVo-F-Wu2VdlE9ptktWdHDdA&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKl4PL8ifoXAubFzmQ0P8gv5F2YahYAU1KCYEKu5Qv4KF2HZNoHgnMt5Q&s=10",
+				"https://ak-d.tripcdn.com/images/0103j12000o2gn77m84C4_W_480_0_Q50.webp?proc=source/trip;crop/m_c,w_1663,h_1663,x_0,y_0,g_center,BC72&_fr=wc"
 			],
 			"featured": false
 		},
@@ -582,11 +582,11 @@
 				"Гідрокостюм обов’язковий",
 				"Boneyards і Magna Tubes поруч"
 			],
-			"image": "/images/destinations/jeffreys-bay.png",
+			"image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/3f/b5/9d/jeffreys-bay.jpg?w=600&h=-1&s=1",
 			"gallery": [
-				"/images/destinations/jeffreys-bay-two.png",
-				"/images/destinations/jeffreys-bay-three.png",
-				"/images/destinations/jeffreys-bay-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLQxhad47ELbEGX2zU6w8Si73YP0Z-t-EyRcqzw-dbNOSq0SLGprIpEks&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYfhZeB3vY5ZrHyg41asU17gnHs3SKA2wSavuJtqmohKciAPTbI7zmp_OG&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT566gCwFDLshKcdXJPEUCs8Q2a0Ep4P1eZWjkNYfNoTIZk4XnYvgNR14WK&s=10"
 			],
 			"featured": false
 		},
@@ -612,11 +612,11 @@
 				"Програма Shark Spotters",
 				"Близько до центру Кейптауна"
 			],
-			"image": "/images/destinations/muizenberg.png",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoEOR-7M9tQHBPN4ns_u19fT_0n6HnhDkdTjh5bKTj3w&s=10",
 			"gallery": [
-				"/images/destinations/muizenberg-two.png",
-				"/images/destinations/muizenberg-three.png",
-				"/images/destinations/muizenberg-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2hFeqveNpgeCbJvuQfoKkFWVHiNDI-L2JVeL4RMbb6W1lh3gDtg-Fmki&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBI44Qnu0w4_pqWGVcOMPlwDnPHTL2yaX2GH2CeZA8jw&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSLVvoJlqTX25apR1d8YcmX0yXB0QKa4WrWY13Mx5BsIrIdLUu1zscHRed&s=10"
 			],
 			"featured": false
 		},
@@ -642,11 +642,11 @@
 				"Яскрава мексиканська атмосфера",
 				"Пуерто-Вальярта за годину"
 			],
-			"image": "/images/destinations/sayulita.png",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaQJKdIWPsnzyYKLXBJrqXH0yHehMcA9jmzivSnzH-scV3mq4J2d5UPt4&s=10",
 			"gallery": [
-				"/images/destinations/sayulita-two.png",
-				"/images/destinations/sayulita-three.png",
-				"/images/destinations/sayulita-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqGur3uqWyENVaPi4rz26pglJ7Oz9PSJ6xBD36HznRAPvKcvThTwS-cGim&s=10",
+				"https://southernersays.com/wp-content/uploads/2019/04/Streets2-2-800x1067.jpg",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmcIgNPtCYE8D1qpWAHd_L4_mRUjVg7Iu70aw0_HGS8H2x7QX3TBwckk&s=10"
 			],
 			"featured": false
 		},
@@ -672,11 +672,11 @@
 				"Сезон із квітня до вересня",
 				"Високий рівень місцевих серферів"
 			],
-			"image": "/images/destinations/puerto-escondido.png",
+			"image": "https://kymaiahotel2025.elementor-pro.mirai.com/app/uploads/sites/1563/puerto-escondido-bioluminescence.webp",
 			"gallery": [
-				"/images/destinations/puerto-escondido-two.png",
-				"/images/destinations/puerto-escondido-three.png",
-				"/images/destinations/puerto-escondido-four.png"
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT-I23N5TJdCW_sAlNDfk6hr3_ifmCbcCS4GJTCIGpImfZciFROe0iQ2M&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjO_zkxUmOKtMSf1Lgfx881-CwHSEUMvjtAvNcbEreqCDHgN94fP7yT7fk&s=10",
+				"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/f6/82/73/photo0jpg.jpg?w=1400&h=-1&s=1"
 			],
 			"featured": false
 		},
@@ -702,11 +702,11 @@
 				"Пік сезону — вересень–листопад",
 				"Недорогий відпочинок поза сезоном"
 			],
-			"image": "/images/destinations/siargao.png",
+			"image": "https://almatar.com/blog/wp-content/uploads/2026/09/Siargao-Island-Travel-Guide-683x1024.webp",
 			"gallery": [
-				"/images/destinations/siargao-two.png",
-				"/images/destinations/siargao-three.png",
-				"/images/destinations/siargao-four.png"
+				"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Siargao_Island%2C_PH%2C_Sentinel-2.jpg/330px-Siargao_Island%2C_PH%2C_Sentinel-2.jpg?utm_source=uk.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMohvO9GjdKAWFlSD4YKikKCG6VUv_ipzasa0BiCr88x4geCJ6Qn29ZoBo&s=10",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNg5jKzROQU6HNQSoqeA9KllZsYFJPIDzTQc5FDcNUoP4JasowscHxhpX0&s=10"
 			],
 			"featured": true
 		},
@@ -732,11 +732,11 @@
 				"Водоспади Дітумабо поруч",
 				"Спокійний невеликий курорт"
 			],
-			"image": "/images/destinations/baler.png",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuDR24zGzPFQY_Olnsc6c_K1LD3o0AKhSi2K6qTSVTG62gH7sQq5HnPaol&s=10",
 			"gallery": [
-				"/images/destinations/baler-two.png",
-				"/images/destinations/baler-three.png",
-				"/images/destinations/baler-four.png"
+				"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/f7/bd/37/mother-falls.jpg?w=500&h=500&s=1",
+				"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-NuiNMfVZd5szkZOxEF74SUg1P9015CMIMcJuPEmpiRMhtkTLIZQIK_0&s=10",
+				"https://thesurfatlas.com/wp-content/uploads/2022/04/surfing-in-baler.jpg"
 			],
 			"featured": false
 		}
